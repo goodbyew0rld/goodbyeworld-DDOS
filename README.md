@@ -13,9 +13,9 @@ $ pkg install python2
 
 $ git clone https://github.com/goodbyew0rld/goodbyeworld-DDOS.git
 
-$ cd goodbye-world-ddos
+$ goodbyeworld-DDOS
 
-$ chmod +x goodbye-world-ddos
+$ chmod +x goodbyeworld-DDOS
 
 $ python2 D.goodbye_world.py
 
