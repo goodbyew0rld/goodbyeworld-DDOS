@@ -13,7 +13,7 @@ $ pkg install python2
 
 $ git clone https://github.com/goodbyew0rld/goodbyeworld-DDOS.git
 
-$ goodbyeworld-DDOS
+$ cd goodbyeworld-DDOS
 
 $ chmod +x goodbyeworld-DDOS
 
