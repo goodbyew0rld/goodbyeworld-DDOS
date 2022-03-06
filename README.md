@@ -1,0 +1,2 @@
+# goodbyeworld-DDOS
+DDOS ATACK
