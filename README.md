@@ -11,7 +11,7 @@ $ pkg install git
 
 $ pkg install python2
 
-$ git clone https://github.com/goodbyeworld222/goodbye-world-ddos.git
+$ git clone https://github.com/goodbyew0rld/goodbyeworld-DDOS.git
 
 $ cd goodbye-world-ddos
 
